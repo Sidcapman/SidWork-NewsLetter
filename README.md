@@ -50,9 +50,9 @@ Before you begin, ensure you have the following installed:
 
 5. **Access the application**
    - Open your browser and navigate to `http://localhost:5173`
-   - Default admin credentials:
+   <!-- - Default admin credentials:
      - Email: anugamsiddy@gmail.com
-     - Password: anugam@2001
+     - Password: anugam@2001 -->
 
 ## Project Structure
 
