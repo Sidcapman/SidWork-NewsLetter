@@ -81,6 +81,10 @@ The application uses the following main tables:
 - `subscribers` - Newsletter subscribers
 - `auth.users` - User authentication and roles
 
+## Demo
+
+[demo video](./demo.mov)
+
 ## Contributing
 
 1. Fork the repository
