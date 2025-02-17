@@ -83,7 +83,7 @@ The application uses the following main tables:
 
 ## Demo
 
-[demo video](./demo.mov)
+[demo gif](./demo.gif)
 
 ## Contributing
 
